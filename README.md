@@ -13,10 +13,13 @@ N/A
 
 ## Usage
 
-In Chrome Dev Tools, if you view the console it will generate a random code language to study
-Contains a quick-guide for branch-setup and git flow using the CLI
-Can be used as a reference point for similar beginner-level development
-Good to view went wanting some tips and refreshers about the coding concepts
+- In Chrome Dev Tools, if you view the console it will generate a random code language to study
+
+- Contains a quick-guide for branch-setup and git flow using the CLI
+
+- Can be used as a reference point for similar beginner-level development
+
+- Good to view went wanting some tips and refreshers about the coding concepts
 
 ## Credits
 
